@@ -9,4 +9,7 @@ proj.android/libs/
 proj.android/.settings/
 proj.android/google-play-services_lib/bin/
 proj.android/google-play-services_lib/gen/
+proj.android
+proj.ios_mac
+proj.linux
 .vs
